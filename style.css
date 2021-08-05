@@ -1,0 +1,24 @@
+body > header {
+    border: 2px solid black;
+}
+
+header {
+    border: 2px dotted black;
+}
+
+span.pink-wavy-underline {
+    text-decoration: lightsalmon wavy underline;
+    color: darkslategray;
+}
+
+.pink-wavy-underline {
+    text-decoration: saddlebrown wavy underline;
+}
+
+#my-unique-id {
+    color: goldenrod;
+}
+
+a[href*="wikipedia"] {
+    text-decoration: cyan wavy underline;
+}
